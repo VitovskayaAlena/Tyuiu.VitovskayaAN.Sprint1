@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VitovskayaAN.Sprint1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VitovskayaAN.Sprint1.Task0.V8.Test", "Tyuiu.VitovskayaAN.Sprint1.Task0.V8.Test\Tyuiu.VitovskayaAN.Sprint1.Task0.V8.Test.csproj", "{309E1EC2-C08A-403E-8CA6-2EF6115F4E74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VitovskayaAN.Sprint1.Task0.V0.Lib", "Tyuiu.VitovskayaAN.Sprint1.Task0.V0.Lib\Tyuiu.VitovskayaAN.Sprint1.Task0.V0.Lib.csproj", "{135A0EB7-CCD6-4C6D-A201-666D88072583}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VitovskayaAN.Sprint1.Task0.V8.Lib", "Tyuiu.VitovskayaAN.Sprint1.Task0.V0.Lib\Tyuiu.VitovskayaAN.Sprint1.Task0.V8.Lib.csproj", "{135A0EB7-CCD6-4C6D-A201-666D88072583}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
