@@ -19,9 +19,8 @@ class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
         Console.WriteLine("***************************************************************************");
-        int x;
         Console.WriteLine("Введите значение X:");
-        x = Convert.ToInt32(Console.ReadLine());
+        var x = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ                                                               *");
         Console.WriteLine("***************************************************************************");

@@ -5,7 +5,7 @@ namespace Tyuiu.VitovskayaAN.Sprint1.Task2.V30.Lib
     {
         public double ConvertKmToMetre(double value)
         {
-            return  Math.Round(value / 1000.0, 3);
+            return value * 1000;
         }
     }
 }

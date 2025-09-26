@@ -8,9 +8,9 @@ namespace Tyuiu.VitovskayaAN.Sprint1.Task2.V30.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            double x = 2;
-            var res = ds.ConvertKmToMetre(x);
-            Assert.AreEqual(0.002, res);
+            double x = 8.9;
+            double res = ds.ConvertKmToMetre(x);
+            Assert.AreEqual(8900.0, res);
         }
     }
 }
