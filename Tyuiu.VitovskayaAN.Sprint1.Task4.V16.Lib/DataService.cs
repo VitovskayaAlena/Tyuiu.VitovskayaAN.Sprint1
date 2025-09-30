@@ -5,7 +5,8 @@ namespace Tyuiu.VitovskayaAN.Sprint1.Task4.V16.Lib
     {
         public double Calculate(double x)
         {
-            return 1 / (x + 4);
+            var res = 1 / (x + 4);
+            return Math.Round(res, 3);
         }
     }
 }
